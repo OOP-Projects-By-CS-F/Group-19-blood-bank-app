@@ -1,7 +1,7 @@
 # blood-bank-app
 Our software is the new way to the blood bank
 
-Team Members
+Team Members:
 
 1. Ravish Satwani
 
